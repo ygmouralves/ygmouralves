@@ -7,6 +7,8 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ygmouralves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+<div class="tenor-gif-embed" data-postid="26065252" data-share-method="host" data-aspect-ratio="0.803125" data-width="100%"><a href="https://tenor.com/view/laptop-gif-26065252">Laptop GIF</a>from <a href="https://tenor.com/search/laptop-gifs">Laptop GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 ## I am learning
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
