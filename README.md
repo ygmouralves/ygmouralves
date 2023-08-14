@@ -1,12 +1,8 @@
 # Hello, my name is Ygor Moura !
 
 
-<div>
-<a href="https://github.com/ygmouralves">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygmouralves&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ygmouralves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
+![](https://raw.githubusercontent.com/ygmouralves/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/ygmouralves/github-stats-transparent/output/generated/languages.svg)
 
 ## I am learning
 
