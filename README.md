@@ -1,9 +1,12 @@
 # Hello, my name is Ygor Moura !
 
+<div>
 
-![](https://raw.githubusercontent.com/ygmouralves/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/ygmouralves/github-stats-transparent/output/generated/languages.svg)
-
+<a href="https://github.com/ygmouralves">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygmouralves&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ygmouralves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
+</div>
 ## I am learning
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
