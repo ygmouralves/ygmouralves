@@ -18,7 +18,11 @@ Atuo no mercado fintech com TypeScript, React, AWS Lambda, Oracle e PostgreSQL â
   </tr>
   <tr>
     <td align="center"><b>Backend & DB</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,fastify,postgres,oracle,mysql,php,laravel&perline=7"/></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql,php,laravel&perline=7"/><br/>
+      <img src="https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white&style=flat-square" height="28"/>&nbsp;
+      <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=flat-square" height="28"/>
+    </td>
   </tr>
   <tr>
     <td align="center"><b>Infra & Cloud</b></td>
