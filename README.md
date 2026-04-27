@@ -7,6 +7,10 @@
 Engenheiro Fullstack construindo APIs escaláveis, plataformas cloud-native e pipelines de entrega contínua.<br/>
 Atuo no mercado fintech com TypeScript, React, AWS Lambda, Oracle e PostgreSQL — do front ao infra.
 
+<a href="https://spectacular-semolina-65e225.netlify.app" target="_blank">
+  <img height="36" src="https://img.shields.io/badge/Portfolio-000000?logo=netlify&logoColor=white&style=flat-square"/>
+</a>
+
 ---
 
 ## 🛠 Tech Stack
@@ -51,17 +55,25 @@ Atuo no mercado fintech com TypeScript, React, AWS Lambda, Oracle e PostgreSQL �
 
 ## 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygmouralves&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ygmouralves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ygmouralves&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ygmouralves&theme=dracula&hide_border=true" height="180em"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygmouralves&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ygmouralves&theme=dracula&hide_border=true"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ygmouralves&bg_color=0d1117&color=a78bfa&line=7c5cfc&point=ffffff&area=true&area_color=7c5cfc&hide_border=true" width="100%"/>
 
 ---
 
 ## 📬 Contato
 
+<a href="https://spectacular-semolina-65e225.netlify.app" target="_blank">
+  <img height="36" src="https://img.shields.io/badge/Portfolio-000000?logo=netlify&logoColor=white&style=flat-square"/>
+</a>&nbsp;
 <a href="https://www.linkedin.com/in/ygor-moura-195b27177/" target="_blank">
   <img height="36" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square"/>
 </a>&nbsp;
