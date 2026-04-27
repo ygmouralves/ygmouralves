@@ -2,16 +2,23 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=120&section=header&text=Ygor%20Moura&fontSize=40&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
-### Backend Developer · Fintech · AWS Serverless
+### Fullstack Developer · Dev / Infra / Cyber · Fintech
 
-Backend Developer focado em APIs escaláveis, arquitetura serverless e integrações financeiras.
-Construindo soluções para o mercado fintech com TypeScript, AWS Lambda, Fastify e PostgreSQL.
+Desenvolvedor Fullstack com foco em APIs escaláveis, interfaces modernas e infraestrutura cloud.
+Atuo no mercado fintech com TypeScript, React, AWS Lambda, Oracle e PostgreSQL — do front ao infra.
 
 ---
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=ts,nodejs,postgres,aws,docker,js,react,mysql,php&perline=9" />
+**Frontend**
+<img src="https://skillicons.dev/icons?i=ts,react,vite,tailwind,html,css,js&perline=7" />
+
+**Backend & Banco de Dados**
+<img src="https://skillicons.dev/icons?i=nodejs,fastify,postgres,oracle,mysql,php,laravel&perline=7" />
+
+**Infra & Cloud**
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,terraform,azure,git&perline=6" />
 
 ---
 
