@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=120&section=header&text=Ygor%20Moura&fontSize=40&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
-### Fullstack Developer · Dev / Infra / Cyber · Fintech
+### Fullstack Engineer · AWS Serverless · DevOps · AppSec
 
-Desenvolvedor Fullstack com foco em APIs escaláveis, interfaces modernas e infraestrutura cloud.<br/>
+Engenheiro Fullstack construindo APIs escaláveis, plataformas cloud-native e pipelines de entrega contínua.<br/>
 Atuo no mercado fintech com TypeScript, React, AWS Lambda, Oracle e PostgreSQL — do front ao infra.
 
 ---
